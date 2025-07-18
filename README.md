@@ -19,14 +19,14 @@ The dataset includes the following fields:
 - Product Name, Category, Sub-Category
 - Sales Amount
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **R**
 - **dplyr** — for data wrangling
 - **lubridate** — for working with dates
 - **ggplot2** — for visualizations
 
-## 📈 Key Outputs
+## Key Outputs
 
 - Bar chart of sales by region
 - Line chart of sales trends over time
